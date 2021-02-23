@@ -6,4 +6,5 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 - [Postman](https://www.postman.com/) - Tool used for API testing
 - [Screencast-O-MAtic](https://screencast-o-matic.com/) - Screen Recorder
 - [Jira](https://www.atlassian.com/pl/software/jira) - Project and issue managment tool
-- 
+- [code2flow](https://code2flow.com/) - Tool which helps to visualize code
+##Technical Stack
