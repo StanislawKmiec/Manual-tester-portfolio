@@ -4,5 +4,6 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 ## Tools
 - [JMeter](https://jmeter.apache.org/) - Load testing tool
 - [Postman](https://www.postman.com/) - Tool used for API testing
-- 
+- [Screencast-O-MAtic](https://screencast-o-matic.com/) - Screen Recorder
+- [Jira](https://www.atlassian.com/pl/software/jira) - Project and issue managment tool
 - 
