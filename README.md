@@ -8,4 +8,8 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 - [Jira](https://www.atlassian.com/pl/software/jira) - Project and issue managment tool
 - [code2flow](https://code2flow.com/) - Tool which helps to visualize code
 ## Technical Stack
-- ISTQB Fundation Level
+- HTML, CSS
+- MySQL
+- Creating bug reports
+- Preparing test cases
+## Certificates
