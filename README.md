@@ -24,3 +24,7 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 - Testowanie oprogramowania
 - Testowanie oprogramowania - PRACA, Ogłoszenia
 - ISTQB - egzaminy, pytania, testy
+## Regularly read
+- [testermbyc.pl](https://testerembyc.pl/)
+- [testerzy.pl](https://testerzy.pl/)
+- [wyszkolewas.com.pl/blog](https://www.wyszkolewas.com.pl/blog/)
