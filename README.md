@@ -13,7 +13,7 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 - Creating bug reports
 - Preparing test cases
 ## Certificates
-- ISTQB Fundation level No. 15500
+- ISTQB Fundation level No. 15500/FLCT/2020
 ## Courses
 - [The Complete 2021 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/) - Udemy
 - [MySQL tworzenie i zarządzanie bazami danych](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/) - Udemy
