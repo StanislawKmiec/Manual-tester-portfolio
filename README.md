@@ -32,4 +32,6 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 [Bug reports for various sites](https://drive.google.com/file/d/1hF3OS02oWw6Wj2Ef0JbBf6xKbx1VSAgp/view?usp=sharing)
 ## Example testcases (in progress)
 [Example test cases for site automationpractice.com](https://docs.google.com/spreadsheets/d/1l514qudWuG8EBt4BJaq058Mfeypx5dM5nKts333Z080/edit?usp=sharing)
+## Simple mind-map
+[mind map for massimodutti.com](https://drive.google.com/file/d/1tfcbe0DC2-yH5uvvs2NwP6sJ4scX9y0I/view?usp=sharing)
 
