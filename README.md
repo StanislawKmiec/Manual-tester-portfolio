@@ -38,7 +38,6 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 [Animation](https://codepen.io/Stasieq/pen/OKRNLZ)       
 
 [Welcome page](https://codepen.io/Stasieq/pen/gJYPMx)   
-
 [Technical documentation](https://codepen.io/Stasieq/pen/VNBBew)   
 
 
