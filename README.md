@@ -36,7 +36,6 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 [Mind map for massimodutti.com](https://drive.google.com/file/d/1UaRjl82l5joDhXthTLRMNvx8XqQWZGUf/view?usp=sharing)
 ## My HTML and CSS variations
 [Animation](https://codepen.io/Stasieq/pen/OKRNLZ)       
-
 [Welcome page](https://codepen.io/Stasieq/pen/gJYPMx)   
 [Technical documentation](https://codepen.io/Stasieq/pen/VNBBew)   
 
