@@ -18,7 +18,7 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 - [The Complete 2021 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/) - Udemy
 - [MySQL tworzenie i zarządzanie bazami danych](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/) - Udemy
 - [MySQL | ponad 80 praktycznych ćwiczeń + odpowiedzi](https://www.udemy.com/course/mysql-ponad-80-praktycznych-cwiczen-odpowiedzi/) - Udemy
-- [SOFTWARE TESTING MASTERCLASS -2020 | JIRA |API & DB Testing](https://www.udemy.com/course/software-manualtesting/) - Udemy
+- [SOFTWARE TESTING MASTERCLASS -2020 JIRA API & DB Testing](https://www.udemy.com/course/software-manualtesting/) - Udemy
 - [QA Guide to Web Application Testing for Beginners](https://www.udemy.com/course/qa-guide-to-web-application-testing-for-beginners/) - Udemy
 ## Groups on FCB
 - Testowanie oprogramowania
