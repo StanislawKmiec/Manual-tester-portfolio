@@ -18,7 +18,7 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 - Reproducing client's bugs
 - Basic load tests with JMeter
 - Basic ability to automate tests with Selenium + Java with TestNG
-- Basic Git commands (creating/changing/pushing/renaming branches, 
+- Basic Git commands (creating/changing/pushing/renaming branches, stashing)
 - Using devtools in testing (Understanding the root cause of bug)
 ## Certificates
 - ISTQB Fundation level No. 15500/FLCT/2020
