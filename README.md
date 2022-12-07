@@ -3,14 +3,23 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 ## Tools
 - [JMeter](https://jmeter.apache.org/) - Load testing tool
 - [Postman](https://www.postman.com/) - Tool used for API testing
-- [Screencast-O-MAtic](https://screencast-o-matic.com/) - Screen Recorder
 - [Jira](https://www.atlassian.com/pl/software/jira) - Project and issue managment tool
 - [code2flow](https://code2flow.com/) - Tool which helps to visualize code
+- [SoapUI](https://www.soapui.org/) - Tool used for API testing
+- [Selenium + Java](https://www.selenium.dev/) - Set used to automate tests
+- [IntelliJ](https://www.jetbrains.com/idea/) - IDE 
 ## Technical Stack
 - HTML, CSS
 - MySQL
 - Creating bug reports
-- Preparing test cases
+- Preparing test scenarios/test cases
+- API tests with Postman and SoapUI
+- Functional/UI/Integration/Regression tests
+- Reproducing client's bugs
+- Basic load tests with JMeter
+- Basic ability to automate tests with Selenium + Java with TestNG
+- Basic Git commands (creating/changing/pushing/renaming branches, 
+- Using devtools in testing (Understanding the root cause of bug)
 ## Certificates
 - ISTQB Fundation level No. 15500/FLCT/2020
 ## Courses
@@ -24,9 +33,9 @@ Hello! My name is Stanisław Kmieć. I graduated in chemical technology in 2018 
 - Testowanie oprogramowania - PRACA, Ogłoszenia
 - ISTQB - egzaminy, pytania, testy
 ## Regularly read
-- [testermbyc.pl](https://testerembyc.pl/)
 - [testerzy.pl](https://testerzy.pl/)
 - [wyszkolewas.com.pl/blog](https://www.wyszkolewas.com.pl/blog/)
+- [Medium](https://medium.com)
 ## Example bug reports (in progress)
 [Bug reports for various sites](https://drive.google.com/file/d/1hF3OS02oWw6Wj2Ef0JbBf6xKbx1VSAgp/view?usp=sharing)
 ## Example testcases (in progress)
