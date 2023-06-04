@@ -35,13 +35,13 @@ Hello ✋! My name is Stanisław Kmieć 😃. I am experienced self-taught manua
 - [QA Guide to Web Application Testing for Beginners](https://www.udemy.com/course/qa-guide-to-web-application-testing-for-beginners/) - Udemy
 ## Regularly read 📰
 - [testerzy.pl](https://testerzy.pl/)
-- [wyszkolewas.com.pl/blog](https://www.wyszkolewas.com.pl/blog/)
+- [testuj.pl](https://testuj.pl/)
 - [Medium](https://medium.com)
 ## Example bug reports 🐛
 [Bug reports for various sites](https://drive.google.com/file/d/1hF3OS02oWw6Wj2Ef0JbBf6xKbx1VSAgp/view?usp=sharing)
-## Example testcases 💼
+## Example test cases 💼
 [Example test cases for site automationpractice.com](https://docs.google.com/spreadsheets/d/1l514qudWuG8EBt4BJaq058Mfeypx5dM5nKts333Z080/edit?usp=sharing)
-## Simple mind-map & decison tables 🗺️
+## Simple mind-map & decision tables 🗺️
 [Mind map for massimodutti.com](https://drive.google.com/file/d/1UaRjl82l5joDhXthTLRMNvx8XqQWZGUf/view?usp=sharing)  
 [Example decision tables](https://drive.google.com/file/d/1fRAY5B36LF9hy_7YYTvPaJEwX5TrY-JO/view?usp=sharing)
 ## My HTML and CSS variations 
